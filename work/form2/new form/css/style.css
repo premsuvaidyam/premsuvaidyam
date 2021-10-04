@@ -1,0 +1,78 @@
+body{
+    background-image:url(../form.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-size: large;
+}
+.reg{
+    text-align: center;
+}
+#prk{
+    padding:20px;
+    margin:5px;
+}
+#cool{
+    margin: 2px;
+    padding: 7px;
+}
+#prem{
+    margin: 5px;
+    padding: 4px;
+
+}
+#ttt{
+    padding: 8px;
+    margin: 4px;
+    background-color: dodgerblue;
+    border-radius: 100px;
+}
+#rawan{
+    margin: 5px;
+    padding: 4px;
+}
+#mark{
+    margin: 5px;
+    padding: 4px;
+}
+#PPP{
+    margin: 20PX;
+    padding: 9PX;
+    padding-left: 10px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+li{
+    float: right;
+    background-color: black;
+}
+a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    margin: 7px;
+}
+ ul a:hover{
+    background-color: cyan;
+
+}
+#ok{
+    margin: 5px;
+    padding-top: 10px;
+    margin-top: 5px;
+    
+
+}
+h1{
+    text-align: center;
+    margin: 10px;
+}
+
+
